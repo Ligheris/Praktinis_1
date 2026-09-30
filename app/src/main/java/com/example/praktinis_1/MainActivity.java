@@ -39,4 +39,7 @@ public class MainActivity extends AppCompatActivity {
         TextView textView = findViewById(R.id.tvMain);
         textView.setBackgroundColor(Color.YELLOW);
     }
+
+    // kai jungiau branch su master is pat pradziu atrodo tsg padariau paprasta commit and push,
+    // todel nera pakeistu eiluciu paciam merge.
 }
